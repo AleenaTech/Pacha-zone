@@ -1,0 +1,16 @@
+@import "./abstract/mixins";
+@import "./abstract/variables";
+@import "./abstract/removeScroll.scss";
+@import "./abstract/global";
+
+//font
+@import "../font/poppins/stylesheet.css";
+@import "../font/TS_hoves/stylesheet.css";
+
+@import "../component/DraggableImage/DraggableImage.scss";
+@import "../component/ButtonBottom/ButtonBottom.scss";
+@import "../pages/Zone/Zone.scss";
+@import "../component/Slider/Slider.scss";
+@import "../component/Modal/Modal.scss";
+@import "../component/SliderWithArrow/SliderWithArrow.scss";
+@import "../component/Hotspot/Hotspot.scss";

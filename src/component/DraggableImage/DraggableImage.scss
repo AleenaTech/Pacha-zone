@@ -1,0 +1,19 @@
+.container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 400px;
+}
+
+.imgWrapper {
+    height: 418px;
+    width: 100%;
+    overflow: scroll;
+
+    .draggable-image {
+        cursor: grab;
+        transition: transform 0.3s ease;
+        width: 735px;
+        height: 100%;
+    }
+}

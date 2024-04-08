@@ -1,0 +1,101 @@
+.zone-container {
+
+
+
+    .content-head {
+        background-color: $font-color-dark;
+        box-shadow: $shadow1;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+        padding: 24px;
+
+        .go-back-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 16px;
+            width: 100%;
+
+            .go-back-text {
+                display: flex;
+                gap: 16px;
+                align-items: center;
+                justify-content: center;
+
+                img {}
+
+                span {
+                    font-family: $font-Hoves-Trial;
+                    font-size: 10px;
+                    font-weight: 587;
+                    line-height: 24px;
+                    text-align: left;
+                    color: $font-color-white;
+                    text-decoration: underline;
+
+                }
+            }
+        }
+
+        p {
+            font-family: $font-Hoves-Trial;
+            font-size: 22px;
+            font-weight: 800;
+            line-height: 37px;
+            letter-spacing: 0.01em;
+            text-align: left;
+            color: $font-color-white;
+            text-transform: uppercase;
+            max-width: 330px;
+        }
+    }
+
+    .club-status {
+        ul {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 11px;
+            padding: 0;
+            margin: 0;
+            height: 50px;
+
+            li {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                img {
+                    height: 32px;
+                    width: 32px;
+                }
+
+                span {
+                    font-family: $font-Hoves-Trial;
+                    font-size: 12px;
+                    font-weight: 587;
+                    line-height: 24px;
+                    text-align: center;
+                    color: $font-color-white;
+                    text-transform: uppercase;
+
+                }
+            }
+        }
+    }
+
+
+
+    .button-wrap {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

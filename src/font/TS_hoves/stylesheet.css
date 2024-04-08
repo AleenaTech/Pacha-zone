@@ -1,0 +1,276 @@
+@font-face {
+    font-family: 'TT Hoves Pro Bold Outline Trial';
+    src: url('TTHovesPro-BdOutlineIt.eot');
+    src: url('TTHovesPro-BdOutlineIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesPro-BdOutlineIt.woff2') format('woff2'),
+        url('TTHovesPro-BdOutlineIt.woff') format('woff'),
+        url('TTHovesPro-BdOutlineIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-BlkIt.eot');
+    src: url('TTHovesProTrial-BlkIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-BlkIt.woff2') format('woff2'),
+        url('TTHovesProTrial-BlkIt.woff') format('woff'),
+        url('TTHovesProTrial-BlkIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Bold Outline Trial';
+    src: url('TTHovesPro-BdOutline.eot');
+    src: url('TTHovesPro-BdOutline.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesPro-BdOutline.woff2') format('woff2'),
+        url('TTHovesPro-BdOutline.woff') format('woff'),
+        url('TTHovesPro-BdOutline.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-BdIt.eot');
+    src: url('TTHovesProTrial-BdIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-BdIt.woff2') format('woff2'),
+        url('TTHovesProTrial-BdIt.woff') format('woff'),
+        url('TTHovesProTrial-BdIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-Blk.eot');
+    src: url('TTHovesProTrial-Blk.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-Blk.woff2') format('woff2'),
+        url('TTHovesProTrial-Blk.woff') format('woff'),
+        url('TTHovesProTrial-Blk.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-Bd.eot');
+    src: url('TTHovesProTrial-Bd.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-Bd.woff2') format('woff2'),
+        url('TTHovesProTrial-Bd.woff') format('woff'),
+        url('TTHovesProTrial-Bd.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-XBdIt.eot');
+    src: url('TTHovesProTrial-XBdIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-XBdIt.woff2') format('woff2'),
+        url('TTHovesProTrial-XBdIt.woff') format('woff'),
+        url('TTHovesProTrial-XBdIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-DmBdIt.eot');
+    src: url('TTHovesProTrial-DmBdIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-DmBdIt.woff2') format('woff2'),
+        url('TTHovesProTrial-DmBdIt.woff') format('woff'),
+        url('TTHovesProTrial-DmBdIt.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-XLtIt.eot');
+    src: url('TTHovesProTrial-XLtIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-XLtIt.woff2') format('woff2'),
+        url('TTHovesProTrial-XLtIt.woff') format('woff'),
+        url('TTHovesProTrial-XLtIt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-XLt.eot');
+    src: url('TTHovesProTrial-XLt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-XLt.woff2') format('woff2'),
+        url('TTHovesProTrial-XLt.woff') format('woff'),
+        url('TTHovesProTrial-XLt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-DmBd.eot');
+    src: url('TTHovesProTrial-DmBd.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-DmBd.woff2') format('woff2'),
+        url('TTHovesProTrial-DmBd.woff') format('woff'),
+        url('TTHovesProTrial-DmBd.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial Hairline';
+    src: url('TTHovesProTrial-HairlineIt.eot');
+    src: url('TTHovesProTrial-HairlineIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-HairlineIt.woff2') format('woff2'),
+        url('TTHovesProTrial-HairlineIt.woff') format('woff'),
+        url('TTHovesProTrial-HairlineIt.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-XBd.eot');
+    src: url('TTHovesProTrial-XBd.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-XBd.woff2') format('woff2'),
+        url('TTHovesProTrial-XBd.woff') format('woff'),
+        url('TTHovesProTrial-XBd.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-MdIt.eot');
+    src: url('TTHovesProTrial-MdIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-MdIt.woff2') format('woff2'),
+        url('TTHovesProTrial-MdIt.woff') format('woff'),
+        url('TTHovesProTrial-MdIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-It.eot');
+    src: url('TTHovesProTrial-It.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-It.woff2') format('woff2'),
+        url('TTHovesProTrial-It.woff') format('woff'),
+        url('TTHovesProTrial-It.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-Md.eot');
+    src: url('TTHovesProTrial-Md.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-Md.woff2') format('woff2'),
+        url('TTHovesProTrial-Md.woff') format('woff'),
+        url('TTHovesProTrial-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial Hairline';
+    src: url('TTHovesProTrial-Hairline.eot');
+    src: url('TTHovesProTrial-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-Hairline.woff2') format('woff2'),
+        url('TTHovesProTrial-Hairline.woff') format('woff'),
+        url('TTHovesProTrial-Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-Rg.eot');
+    src: url('TTHovesProTrial-Rg.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-Rg.woff2') format('woff2'),
+        url('TTHovesProTrial-Rg.woff') format('woff'),
+        url('TTHovesProTrial-Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-Lt.eot');
+    src: url('TTHovesProTrial-Lt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-Lt.woff2') format('woff2'),
+        url('TTHovesProTrial-Lt.woff') format('woff'),
+        url('TTHovesProTrial-Lt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-LtIt.eot');
+    src: url('TTHovesProTrial-LtIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-LtIt.woff2') format('woff2'),
+        url('TTHovesProTrial-LtIt.woff') format('woff'),
+        url('TTHovesProTrial-LtIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-ThIt.eot');
+    src: url('TTHovesProTrial-ThIt.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-ThIt.woff2') format('woff2'),
+        url('TTHovesProTrial-ThIt.woff') format('woff'),
+        url('TTHovesProTrial-ThIt.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('TTHovesProTrial-Th.eot');
+    src: url('TTHovesProTrial-Th.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrial-Th.woff2') format('woff2'),
+        url('TTHovesProTrial-Th.woff') format('woff'),
+        url('TTHovesProTrial-Th.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial Variable';
+    src: url('TTHovesProTrialVariable.eot');
+    src: url('TTHovesProTrialVariable.eot?#iefix') format('embedded-opentype'),
+        url('TTHovesProTrialVariable.woff2') format('woff2'),
+        url('TTHovesProTrialVariable.woff') format('woff'),
+        url('TTHovesProTrialVariable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
