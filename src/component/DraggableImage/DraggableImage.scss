@@ -5,16 +5,19 @@
     height: 400px;
 }
 
-.imgWrapper {
-    // height: 418px;
-    width: 100%;
-    overflow: scroll;
-    margin-bottom: 70px;
+.image-scroll-wrap {
+    margin-bottom: 110px;
 
-    .draggable-image {
-        cursor: grab;
-        transition: transform 0.3s ease;
-        width: 735px;
-        height: 100%;
+    .imgWrapper {
+        // height: 418px;
+        width: 100%;
+        overflow: scroll;
+
+        .draggable-image {
+            cursor: grab;
+            transition: transform 0.3s ease;
+            width: 735px;
+            height: 100%;
+        }
     }
 }
