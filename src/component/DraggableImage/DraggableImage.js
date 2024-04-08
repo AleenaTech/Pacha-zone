@@ -51,8 +51,8 @@ function DraggableImage() {
         <>
             <Modal isOpen={modalVisible} onClose={handleCloseModal} hotspotData={hotspotData} />
 
-            <div className="container" style={{ position: 'relative', width: '100%', overflow: 'hidden', height: '400px' }} ref={containerRef}>
-                <div className='imgWrapper' style={{ height: '418px', width: '100%', overflow: 'scroll', position: 'absolute', top: '0', left: '0' }}>
+            <div className="container" style={{ position: 'relative', width: '100%', overflow: 'hidden' }} ref={containerRef}>
+                <div className='imgWrapper' style={{ width: '100%', overflow: 'scroll', position: 'absolute', top: '0', left: '0' }}>
                     <img
                         ref={imgRef}
                         className="draggable-image"
