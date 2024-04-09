@@ -17,8 +17,8 @@ function DraggableImage() {
     const startY = useRef(0);
     const dragging = useRef(false);
     const hotspots = [
-        { x: 125, y: 98, id: 1, type: 'available', name: 'This zone is right behind the DJ booth', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
-        { x: 356, y: 101, id: 2, type: 'available', name: 'This zone is right behind the DJ booth', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
+        { x: 115, y: 95, id: 1, type: 'available', name: 'This zone is right behind the DJ booth', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
+        { x: 372, y: 101, id: 2, type: 'available', name: 'This zone is right behind the DJ booth', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
         { x: 382, y: 202, id: 3, type: 'dj_booth', name: 'This zone is the DJ booth', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
         { x: 267, y: 300, id: 4, type: 'available', name: 'Hotspot 3', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
         { x: 541, y: 214, id: 5, type: 'available', name: 'Hotspot 4', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
@@ -26,7 +26,7 @@ function DraggableImage() {
         { x: 390, y: 144, id: 2, type: 'available', name: 'This zone is right behind the DJ booth', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
         { x: 588, y: 198, id: 3, type: 'available', name: 'This zone is right behind the DJ booth', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
         { x: 608, y: 265, id: 4, type: 'available', name: 'Hotspot 3', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
-        { x: 119, y: 233, id: 5, type: 'unavailable', name: 'Hotspot 4', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
+        { x: 146, y: 228, id: 5, type: 'unavailable', name: 'Hotspot 4', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
         { x: 655, y: 200, id: 4, type: 'available', name: 'Hotspot 3', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
         { x: 677, y: 195, id: 5, type: 'available', name: 'Hotspot 4', AmountWithVAT: "€ 3500", AmountWithoutVAT: "3181.82€", gallery: [gallery1, gallery2, gallery3] },
     ];
