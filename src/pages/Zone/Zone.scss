@@ -1,6 +1,7 @@
 .zone-container {
     overflow: hidden;
     position: relative;
+    min-height: 100vh;
 
     .content-head {
         background-color: $font-color-dark;
